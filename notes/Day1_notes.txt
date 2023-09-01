@@ -1,0 +1,1 @@
+while using multiple js file to a single html file we should always remember that the main script file will always be at the end of all the script files
